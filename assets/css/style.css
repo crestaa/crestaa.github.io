@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(25, 25, 25);
+    color: rgb(187, 187, 187);
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    color: rgb(187, 187, 187);
+    text-decoration: underline;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+#summary{
+    font-size: 1.2em;
+}
+#coffee{
+    text-decoration: underline;
+}
+.contact_element{
+    font-size: 1.2em;
+    text-align: center;
+    line-height: 1.6em;
+}
+.contact_element button{
+    font-size: 2em;
+    background-color: rgb(25, 25, 25);
+    border:rgb(25, 25, 25);
+    color: rgb(187, 187, 187);
+}
+.contact_element button:hover{
+    color: rgb(255, 255, 255);
+}
+.contact_element a{
+    text-decoration: none;
+}
+.contact_element a:hover{
+    text-decoration: none;
+}
